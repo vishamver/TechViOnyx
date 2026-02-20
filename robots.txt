@@ -1,3 +1,5 @@
+# robots.txt for https://techvionyx.com/
+
 User-agent: *
 Allow: /
 
